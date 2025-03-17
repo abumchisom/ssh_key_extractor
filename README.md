@@ -28,4 +28,4 @@ pip install cryptography
 ```
 
 ## Author
-- [Joseph Chisom Ofonagoro and Assistant](x.com/abumchisom)
+- **[Joseph Chisom Ofonagoro and Assistant](x.com/abumchisom)**
